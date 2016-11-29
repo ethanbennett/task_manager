@@ -1,0 +1,25 @@
+.page-header {
+  font-family: 'Gloria Hallelujah';
+  color: #bfa08b;
+}
+
+.task_options {
+  font-family: "Architects Daughter";
+  font-size: 150%;
+  color: #bfa08b;
+  list-style-image: 'app/images/red.png';
+}
+
+.description {
+  font-family: 'Gloria Hallelujah';
+  margin-top: -15px;
+  color: black;
+}
+
+.page-background {
+  background-color: #421b0e;
+}
+
+.jumbotron {
+  background: rgba(200, 54, 54, 0.25);
+}
